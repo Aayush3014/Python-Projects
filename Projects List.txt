@@ -1,0 +1,37 @@
+Simple Projects List:
+        Number guessing game in Python
+        Word guessing game in Python
+        Hangman Game in Python
+        21 Number game in Python
+        Mastermind Game using Python
+        2048 Game in Python
+        Flames game in Python
+        Pokémon Training Game
+        Rock Paper Scissor game in Python
+        Taking Screenshots using pyscreenshot in Python
+        Desktop Notifier in Python
+        Get Live Weather Desktop Notifications Using Python
+        How to use pynput to make a Keylogger?
+
+
+Automation Projects
+
+    Automating boring Stuff Using Python
+    Automate Instagram Messages using Python
+    Automating Happy Birthday post on Facebook
+    Automatic Birthday mail sending with Python
+    Automated software testing with Python
+    Automate Google Search
+    Automate linkedin connections using Python
+    Automated Trading using Python
+    Automate the Conversion from Python2 to Python3
+
+
+Django Projects
+        How to Create an App in Django ?
+        Weather app using Django
+        Django Sign Up and login with confirmation Email
+        ToDo webapp using Django
+        Setup Sending Email in Django Project
+        Django project to create a Comments System
+        Voting System Project Using Django Framework

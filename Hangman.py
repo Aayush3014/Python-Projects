@@ -1,11 +1,12 @@
 import random as r
 word_list = ["mango", "banana", "apple", "kiwi"]
-word_selected = r.choice(word_list)
-word_length = len(word_selected)
-chances = word_length + 2
-print(word_selected)
 ans = 'y'
 while ans == 'y':
+    word_selected = r.choice(word_list)
+    word_length = len(word_selected)
+    chances = word_length + 2
+    print(word_selected)
+
     guess_alphabet = input("Enter the alphabet you want to guess : ")
 
     if guess_alphabet in word_selected:
@@ -14,7 +15,7 @@ while ans == 'y':
         
         for i in word_selected:
             if i == guess_alphabet:
-                print(guess_alphabet,"is placed at index",i.index())
+                print(guess_alphabet,"is placed at index",word_selected.index(i))
             else:
                 pass
         
