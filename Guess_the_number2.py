@@ -1,4 +1,4 @@
-# Guess the number game (computer)
+# Guess the number game (User Input)
 
 
 a = int(input("Enter the number to be guessed : "))
